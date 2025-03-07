@@ -30,9 +30,9 @@ library within PFN's choropleth_maps.ipynb notebook, available at
 
 [County-level 25-29 population growth](maps/county_25-29_pop_pct_growth_2011-2021.html)
 
-## Net migration maps
+## Net domestic migration maps
 
-These maps show domestic net migration rates at the state and
+These maps show net domestic migration rates at the state and
 county level **from 2020 to 2023**. They are based on the Folium mapping
 library and were created within PFN's
 choropleth_maps_with_folium.ipynb notebook, available at
