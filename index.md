@@ -17,18 +17,21 @@ level **from 2011 to 2021.** They were created using the Plotly graphing
 library within PFN's choropleth_maps.ipynb notebook, available at
 (https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps.ipynb .
 
+**Note: Certain maps will be easier to view on a laptop or monitor than
+on your phone.**
+
 
 ### Total population growth
 
 [State-level total population growth](maps/state_pop_pct_growth_2011-2021.html)
 
-[County-level total population growth](maps/county_pop_pct_growth_2011-2021.html)
+[County-level total population growth](maps/county_pop_pct_growth_2011-2021_tiled.html)
 
 ### Population growth for adults aged 25 to 29
 
 [State-level 25-29 population growth](maps/state_25-29_pop_pct_growth_2011-2021.html)
 
-[County-level 25-29 population growth](maps/county_25-29_pop_pct_growth_2011-2021.html)
+[County-level 25-29 population growth](maps/county_25-29_pop_pct_growth_2011-2021_tiled.html)
 
 ## Net domestic migration maps
 
