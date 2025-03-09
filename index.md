@@ -15,7 +15,7 @@ the MIT License.
 These maps visualize population growth rates at the state and county
 level **from 2011 to 2021.** They were created using the Plotly graphing
 library within PFN's choropleth_maps.ipynb notebook, available at
-(https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps.ipynb .
+https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps.ipynb .
 
 **Note: Certain maps will be easier to view on a laptop or monitor than
 on your phone.**
