@@ -1,5 +1,9 @@
 # Selected output from the mapping section of Python for Nonprofits
 
+By Kenneth Burchfiel
+
+Released under the MIT License
+
 This simple webpage provides links to six maps created within
 the [Mapping](https://github.com/kburchfiel/pfn/tree/main/Mapping) section
 of [Python for Nonprofits](https://github.com/kburchfiel/pfn). It is meant
