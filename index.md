@@ -40,11 +40,11 @@ on your phone.**
 ## Net domestic migration maps
 
 These maps show net domestic migration rates at the state and
-county level **from 2020 to 2023**. They are based on the Folium mapping
+county level **from April 1, 2020 to June 1, 2024**. They are based on the Folium mapping
 library and were created within PFN's
 choropleth_maps_with_folium.ipynb notebook, available at
 https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps_with_folium.ipynb .
 
-[State-level net migration](maps/net_migration_rate_state_2020-2023.html)
+[State-level net migration](maps/net_migration_rate_state_2020-2024.html)
 
-[County-level net migration](maps/net_migration_rate_county_2020-2023.html)
+[County-level net migration](maps/net_migration_rate_county_2020-2024.html)
