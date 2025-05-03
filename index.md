@@ -13,7 +13,6 @@ a static GitHub Pages website.
 Python for Nonprofits, like this repository, is released under 
 the MIT License.
 
-
 ## Population growth maps
 
 These maps visualize population growth rates at the state and county
@@ -23,7 +22,6 @@ https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps.ipynb .
 
 **Note: Certain maps will be easier to view on a laptop or monitor than
 on your phone.**
-
 
 ### Total population growth
 
@@ -40,9 +38,9 @@ on your phone.**
 ## Net domestic migration maps
 
 These maps show net domestic migration rates at the state and
-county level **from April 1, 2020 to June 1, 2024**. They are based on the Folium mapping
-library and were created within PFN's
-choropleth_maps_with_folium.ipynb notebook, available at
+county level **from April 1, 2020 to June 1, 2024**. They are based on
+the Folium mapping library and were created within PFN's
+'choropleth_maps_with_folium.ipynb' notebook, available at
 https://github.com/kburchfiel/pfn/blob/main/Mapping/choropleth_maps_with_folium.ipynb .
 
 [State-level net migration](maps/net_migration_rate_state_2020-2024.html)
